@@ -1,2 +1,2 @@
 # spring-cloud-configclient
-spring-cloud-configclient客户端
+spring-cloud-config客户端
